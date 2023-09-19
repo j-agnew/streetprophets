@@ -1,0 +1,83 @@
+* {
+  font-family:'Staatliches', cursive;
+  color: rgb(255, 255, 255);
+}
+h1 {
+  font-family:'Staatliches', cursive;
+  color: rgb(255, 255, 255);
+  font-style: italic;
+  font-size: 72px;
+}
+h3 {
+  font-family:'Staatliches', cursive;
+  color: rgb(255, 255, 255);
+}
+li {
+  font-family:'Staatliches', cursive;
+  color: rgb(255, 255, 255);
+}
+p {
+  font-family:'Staatliches', cursive;
+  color: rgb(255, 255, 255);
+}
+article {
+  width: 45%;
+  float: left;
+  font-size: 42px;
+  margin-left: 5%;
+}
+aside {
+  width:45%;
+  float:right;
+  margin-right: 5%;
+  font-size: 42px;
+  margin-bottom: 5%;
+}
+.topnav {
+  color: rgb(255, 255, 255);
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family:'Staatliches', cursive;
+}
+.topnav a:hover {
+  color: rgba(255, 255, 255, 0.5);
+}
+.topnav a.link {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+.topnav a.visited {
+  color: rgba(255, 255, 255, 0.5);
+  text-decoration: none;
+}
+html {
+  background-image: url('../Images/background.png');
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+.poster {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.contact {
+  font-size: 32px;
+}
+.centertext {
+  font-size: 32px;
+  text-align: center;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 35%;
+}
